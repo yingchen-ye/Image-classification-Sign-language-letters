@@ -9,4 +9,4 @@ The first task is to train two models to recognize sign language letters and com
 - Logistic regression and CNN were trained.
 
 ## Task 2:
-use the classifiers trained in the first task to identify a series of n sign language letters in an image of size 28 × 200. $n$ can take values in the range [1, 5] randomly.
+use the classifiers trained in the first task to identify a series of $n$ sign language letters in an image of size 28 × 200. $n$ can take values in the range [1, 5] randomly.
