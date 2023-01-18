@@ -10,3 +10,5 @@ The first task is to train two models to recognize sign language letters and com
 
 ## Task 2:
 use the classifiers trained in the first task to identify a series of $n$ sign language letters in an image of size 28 × 200. $n$ can take values in the range [1, 5] randomly.
+# Results:
+Check the results in the report.
